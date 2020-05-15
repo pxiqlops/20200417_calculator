@@ -1,0 +1,12 @@
+C:\Users\pxiql\source\repos\20200417\20200417\bin\Debug\20200417.exe.config
+C:\Users\pxiql\source\repos\20200417\20200417\bin\Debug\20200417.exe
+C:\Users\pxiql\source\repos\20200417\20200417\bin\Debug\20200417.pdb
+C:\Users\pxiql\source\repos\20200417\20200417\bin\Debug\20200417.xml
+C:\Users\pxiql\source\repos\20200417\20200417\obj\Debug\20200417.vbprojAssemblyReference.cache
+C:\Users\pxiql\source\repos\20200417\20200417\obj\Debug\_20200417.Resources.resources
+C:\Users\pxiql\source\repos\20200417\20200417\obj\Debug\20200417.vbproj.GenerateResource.cache
+C:\Users\pxiql\source\repos\20200417\20200417\obj\Debug\20200417.vbproj.CoreCompileInputs.cache
+C:\Users\pxiql\source\repos\20200417\20200417\obj\Debug\20200417.exe
+C:\Users\pxiql\source\repos\20200417\20200417\obj\Debug\20200417.xml
+C:\Users\pxiql\source\repos\20200417\20200417\obj\Debug\20200417.pdb
+C:\Users\pxiql\source\repos\20200417\20200417\obj\Debug\_20200417.keisan.resources
